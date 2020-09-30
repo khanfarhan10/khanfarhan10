@@ -1,7 +1,7 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 ## Hello World <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfarhan10&label=Profile+Views&color=green&style=plastic%22%20alt=%22khanfarhan10" /> </p>
 
 * This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
