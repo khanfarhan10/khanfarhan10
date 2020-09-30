@@ -1,10 +1,11 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-## Hola <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
+## Hello World <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
-* I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
+* This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
+* I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
+* I am also developing my personaized Github Pages Jekyll Website : [khanfarhan10.github.io/](https://khanfarhan10.github.io/)
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
