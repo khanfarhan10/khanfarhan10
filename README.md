@@ -42,11 +42,11 @@
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/Instagram-imkashyap_-yellow.svg)](https://www.instagram.com/imkashyap__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40kfpro-green)](https://www.linkedin.com/in/kfpro)
+[![Twitter](https://img.shields.io/badge/Twitter-%40itsmetheswagger-red)](https://twitter.com/itsmetheswagger)
+[![Instagram](https://img.shields.io/badge/Instagram-%40i.am.the.swagger_-yellow.svg)](https://www.instagram.com/i.am.the.swagger/)
 ***
-
+<!--https://shields.io/-->
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
