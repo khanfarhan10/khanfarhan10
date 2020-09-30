@@ -73,13 +73,13 @@ Then paste the links along with the alt text. (optional)
 
 ***
 
--  🔭 I’m currently working on projects related to firebase cloud functions and firebase cloud messaging.
+-  🔭 I’m currently working on projects related to Software Automation, Computer Vision & Deep Learning.
 
--  🌱 I’m currently learning Laravel and it's implementation in development of flutter applications.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/khanfarhan10?tab=repositories). You can also get to [know me](https://khanfarhan10.github.io/aboutme/).
 
--  👯 I’m looking to collaborate on projects for my **Country India**.
+-  👯 I’m looking forward to collaborate on projects for better software and contributing towards Open Source.
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, OOPS and Data Structures.
+-  💬 Ask me about Python, Jupyter Notebooks, Google Colab, Neural Networks, OOPS and Data Structures.
 
 -  😄 Pronouns: He/His
 
