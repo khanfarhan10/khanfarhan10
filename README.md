@@ -20,7 +20,7 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 
 * This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
-* I am also developing my personaized Github Pages Jekyll Website : [khanfarhan10.github.io/](https://khanfarhan10.github.io/)
+* I am also developing my personaized Github Pages Jekyll Website : [khanfarhan10.github.io](https://khanfarhan10.github.io/)
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=khanfarhan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
@@ -74,7 +74,7 @@ Then paste the links along with the alt text. (optional)
 
 
 ***
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 -  🔭 I’m currently working on projects related to Software Automation, Computer Vision & Deep Learning.
 
 -  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/khanfarhan10?tab=repositories). You can also get to [know me](https://khanfarhan10.github.io/aboutme/).
