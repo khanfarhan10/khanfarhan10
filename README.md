@@ -11,12 +11,12 @@ That was just the Hi there gif. Just an animation.
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfarhan10&label=Profile+Views&color=green&style=plastic%22%20alt=%22khanfarhan10" /> </p>
-
 <!--
-Personalized GitHub Stats Card
+The number of github profile or any other repo view.
 just replace the username param to your github username.
-For more info and customization, read, https://github.com/anuraghazra/github-readme-stats
+For more info and customization, read, https://github.com/antonkomarev/github-profile-views-counter
 -->
+
 
 * This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
@@ -24,12 +24,12 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=khanfarhan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
-
 <!--
-The number of github profile or any other repo view.
+Personalized GitHub Stats Card
 just replace the username param to your github username.
-For more info and customization, read, https://github.com/antonkomarev/github-profile-views-counter
+For more info and customization, read, https://github.com/anuraghazra/github-readme-stats
 -->
+
 
 **Languages and Tools:**  
 
