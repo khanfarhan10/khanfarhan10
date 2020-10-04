@@ -75,6 +75,7 @@ Then paste the links along with the alt text. (optional)
 
 ***
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- add a funky looking image just to look great-->
 -  🔭 I’m currently working on projects related to Software Automation, Computer Vision & Deep Learning.
 
 -  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/khanfarhan10?tab=repositories). You can also get to [know me](https://khanfarhan10.github.io/aboutme/).
