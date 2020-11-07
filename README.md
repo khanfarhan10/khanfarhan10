@@ -19,7 +19,7 @@ For more info and customization, read, https://github.com/antonkomarev/github-pr
 
 
 * This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
-* I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
+* I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Management, Kolkata.
 * I am also developing my personaized Github Pages Jekyll Website : [khanfarhan10.github.io](https://khanfarhan10.github.io/)
 
 ***
