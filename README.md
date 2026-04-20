@@ -37,12 +37,6 @@ This profile brings together selected experiments, reusable tooling, research co
   />
 </p>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&hide_border=true&title_color=3E0097&text_color=111111&bg_color=ffffff"
-    alt="Top languages"
-  />
-</p>
 
 ## Notes
 
